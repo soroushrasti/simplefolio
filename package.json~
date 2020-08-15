@@ -1,7 +1,7 @@
 {
-  "name": "myfolio",
+  "name": "simplefolio",
   "version": "1.0.1",
-  "description": "A clean, beautiful and  portfolio",
+  "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/soroushrasti"
+    "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
-  "author": "Soroush Rasti",
-  "license": " ",
+  "author": "Jacobo Martinez",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/soroushrasti/simplefolio/issues"
+    "url": "https://github.com/cobidev/simplefolio/issues"
   },
-  "homepage": "https://github.com/soroushrasti/simplefolio#readme",
+  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.6.0",
